@@ -2,6 +2,13 @@
 
 get an emoji and surround it with ascii shrugs.
 inspired by [kxxoling's kaomoji](https://github.com/kxxoling/kaomoji)
+
+### how to use
+
+    $ shrugs
+    ? type an emoji poop
+    ¯\_( 💩 )_/¯
+
 ### note
 this has absolutely zero purpose.
 

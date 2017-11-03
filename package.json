@@ -1,6 +1,6 @@
 {
   "name": "shrug-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a cli to append shrugs to emojis",
   "main": "app.js",
   "bin": {
