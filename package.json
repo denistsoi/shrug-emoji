@@ -4,7 +4,7 @@
   "description": "a cli to append shrugs to emojis",
   "main": "app.js",
   "bin": {
-    "shrug": "./app.js"
+    "shrugs": "./app.js"
   },
   "author": "Denis Tsoi <denistsoi@gmail.com> (https://github.com/denistsoi)",
   "license": "MIT",

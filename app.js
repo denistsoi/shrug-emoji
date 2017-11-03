@@ -27,10 +27,10 @@ inquirer.prompt([{
 	let emoji = emojis.lib[choice.toString()].char;
 
 	// return shrugged-emoji
-	return `¯\\_\(${emoji}\)_/¯`;
+	return `¯\\_\( ${emoji} \)_/¯`;
 }).then(shrug => {
 	// copy to clipboard
-	
+
 	clip(shrug);
 	console.log(`${shrug} has been copied to your clipboard`);
 })
