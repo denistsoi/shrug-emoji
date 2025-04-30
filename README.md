@@ -18,8 +18,5 @@ this has absolutely zero purpose.
 - [x] copy first shrug-emoji to clipboard  
 - [x] return other words based on query  
 
-### author
-Denis Tsoi <denistsoi@gmail.com>
-
 ### license
 MIT
